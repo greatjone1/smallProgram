@@ -1,0 +1,6 @@
+<view class="index">
+  <view class="row1">
+    <view>1</view>
+    <view>2</view>    
+  </view>
+</view>
