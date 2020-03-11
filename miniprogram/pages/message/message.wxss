@@ -1,1 +1,22 @@
 /* pages/message/message.wxss */
+.top-bar {
+  font-size: 32rpx;
+  position: fixed;
+  height: 60rpx;
+  padding-top: 14rpx;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1rpx solid #dedede; 
+}
+.top-bar .tab {
+  margin: 0 60rpx;
+  padding-bottom: 10rpx;
+  color: #666666;
+}
+.top-bar .tab-choice {
+  border-bottom: 10rpx solid #409eff;
+  border-radius: 10rpx;
+  color: #409eff;
+}

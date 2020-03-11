@@ -5,14 +5,21 @@ Page({
    * 页面的初始数据
    */
   data: {
+    type: "1", // 1历史2通知
+  },
 
+  changeType: function (e) {
+    this.setData({
+      type: e.currentTarget.dataset['type']
+    })
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-
+    // 渲染组件
+    // this.history = this.selectComponent("#history")
   },
 
   /**
