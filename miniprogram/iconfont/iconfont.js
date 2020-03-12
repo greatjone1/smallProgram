@@ -1,6 +1,6 @@
 Component({
   properties: {
-    // aixin | Artboard | sousuo | gengduo
+    // taolun | xiaoxi | wode | xinzeng | aixin | Artboard | sousuo | gengduo
     name: {
       type: String,
     },

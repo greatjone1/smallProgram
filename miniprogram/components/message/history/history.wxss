@@ -1,1 +1,16 @@
 /* components/message/history/history.wxss */
+.history-content {
+  padding-left: 32rpx;
+}
+.history-content .item {
+  display: flex;
+}
+.history-content .item .left-image {
+  width: 120rpx;
+  height: 120rpx;
+}
+.history-content .item .left-image .image{
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}

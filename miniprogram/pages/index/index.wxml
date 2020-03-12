@@ -47,6 +47,11 @@
     </view>
   </view>
 
+  <!-- 右下角悬浮点 -->
+  <view class="create" catchtap="goCreate">
+    <iconfont name="xinzeng" class="search-icon" size="36"></iconfont>
+  </view>
+
   <view style="height: 100rpx;"></view>
 
 </view>

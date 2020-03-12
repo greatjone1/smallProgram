@@ -72,6 +72,18 @@
   width: 100%;
   height: 1rpx;
 }
+.create {
+  position: fixed;
+  bottom: 36rpx;
+  right: 36rpx;
+  width: 40px;
+  height: 40px;
+  background: #dadada;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .footers {
   position: fixed;
   bottom: 0;

@@ -1,5 +1,10 @@
 <!--components/message/history/history.wxml-->
 <!-- 历史讨论内容栏 -->
-<view>
-  八楼弱智
+<view class="history-content">
+  <view class="item">
+    <view class="left-image">
+      <image class="image" src="https://bkimg.cdn.bcebos.com/pic/241f95cad1c8a786d7c7ee606c09c93d71cf50ea?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UyMjA=,xp_5,yp_5"></image>
+    </view>
+    <view class="right-content"></view>
+  </view>
 </view>

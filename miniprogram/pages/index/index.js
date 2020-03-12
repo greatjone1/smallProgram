@@ -10,6 +10,13 @@ Page({
     requestResult: ''
   },
 
+  // 前往创建页
+  goCreate: function() {
+    wx.navigateTo({
+      url: '../index/create' 
+    })
+  },
+
   onLoad: function() {
     if (!wx.cloud) {
       wx.redirectTo({
