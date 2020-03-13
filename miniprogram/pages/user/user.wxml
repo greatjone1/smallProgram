@@ -1,0 +1,27 @@
+<view class="content">
+  <view class="row1">
+    <view class="left">
+      <image></image>
+      <view class="text">
+        <view class="user-name">屌閪种</view>
+        <view class="id">用户ID： 11223344</view>
+      </view>
+    </view>
+    <view class="right">
+      <view class="qd-btn">签到</view>
+    </view>
+  </view>
+
+  <view class="row2">
+    <view class="left">
+      <image></image>
+      <view class="text">
+        <view class="title">VIP会员中心</view>
+        <view class="small-text">只要加入会员就能姓李</view>
+      </view>
+    </view>
+    <view class="right">
+      >
+    </view>
+  </view>
+</view>

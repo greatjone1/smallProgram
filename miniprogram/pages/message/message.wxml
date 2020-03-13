@@ -1,12 +1,12 @@
 <view>
-  <view class="top-bar">
+  <!-- <view class="top-bar">
     <view class="tab {{type==1 ? 'tab-choice':'' }}" catchtap="changeType" data-type="1">历史</view>
     <view class="tab {{type==2 ? 'tab-choice':'' }}" catchtap="changeType" data-type="2">通知</view>
-  </view>
+  </view> -->
 
-  <view style="height: 100rpx"></view>
+  <!-- <view style="height: 100rpx"></view>
 
   <view class="content">
     <history wx:if="{{type==1}}"></history>
-  </view>
+  </view> -->
 </view>
